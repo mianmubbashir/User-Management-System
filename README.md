@@ -2,12 +2,6 @@
 
 ## Installation
 
-### Prerequisites
-
-- PHP >= 7.4
-- Composer
-- MySQL
-
 ### Steps
 
 1. **Install dependencies:**
